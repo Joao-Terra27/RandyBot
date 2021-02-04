@@ -2,7 +2,7 @@
 
 #Totally in Portuguese [in case of any non-Brazilian/Portuguese see this] 
 
-RandyBot é um dos primeiros projetos fora de algoritmo básico que fiz. ao ser chamado, Randy irá soltar um fato aleatório (armazenado no random1.txt).
+RandyBot é um dos primeiros projetos fora de algoritmo básico que fiz. Ao ser chamado, Randy irá soltar um fato aleatório (armazenado no random1.txt).
 
 Foi o mais próximo que cheguei de trabalhar com banco de dados e inteligência artificial.
 
